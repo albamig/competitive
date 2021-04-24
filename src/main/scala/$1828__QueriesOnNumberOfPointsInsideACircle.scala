@@ -43,16 +43,19 @@ object $1828__QueriesOnNumberOfPointsInsideACircle_ObjectOriented extends App {
     val ps: Array[Point] = points map { case Array(x, y) => new Point(x, y) }
     val qs: Array[Circle] = queries map { case Array(x, y, r) => new Circle(new Point(x, y), r) }
 
-    qs map { circle =>
-      ps map { point =>
-        circle.contains(point)
-      } count {
-        _ == true
-      }
-    }
+    /*  qs map { circle =>
+          ps map { point =>
+            circle.contains(point)
+          } count {
+            _ == true
+          }
+        }*/
+
+    for (circle <- qs)
+      yield ps map { point => circle contains point } count { _ == true }
   }
 
-  val points: Array[Array[Int]] = Array(Array(1, 3), Array(3, 3), Array(5, 3), Array(2, 2))
+    val points: Array[Array[Int]] = Array(Array(1, 3), Array(3, 3), Array(5, 3), Array(2, 2))
   val queries = Array(Array(2, 3, 1), Array(4, 3, 1), Array(1, 1, 2))
   println(countPoints(points, queries).mkString("Array(", ", ", ")"))
 }
