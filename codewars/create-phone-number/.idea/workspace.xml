@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df5c74ca-7fef-41d1-867d-1d34d6eee791" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/base_4_16_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/ghc_bignum_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/ghc_prim_0_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build-lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/package.conf.inplace/package.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/package.conf.inplace/package.cache.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/setup-config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/stack-cabal-mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/stack-project-root" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/stack-setup-config-mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.stack-work/install/x86_64-linux/a00b43056c0b5b29d94a88407b79cea60286c74548d542ade4fab00ed3e82712/9.2.7/doc/create-phone-number-0.1.0.0/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.stack-work/install/x86_64-linux/a00b43056c0b5b29d94a88407b79cea60286c74548d542ade4fab00ed3e82712/9.2.7/pkgdb/package.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.stack-work/install/x86_64-linux/a00b43056c0b5b29d94a88407b79cea60286c74548d542ade4fab00ed3e82712/9.2.7/pkgdb/package.cache.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.stack-work/install/x86_64-linux/bff1f1aea325987c40a1e66ba46a755a52977c09d85c9d3e6dce43ca6581a4cf/9.2.7/pkgdb/package.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.stack-work/install/x86_64-linux/bff1f1aea325987c40a1e66ba46a755a52977c09d85c9d3e6dce43ca6581a4cf/9.2.7/pkgdb/package.cache.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.stack-work/stack.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.stack-work/stack.sqlite3.pantry-write-lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Setup.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-phone-number.cabal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-phone-number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lib.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack.yaml.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Spec.hs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2NHlNTI4VzABXD2BhrVA6lHSQwS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Haskell Stack.test">
+    <configuration name="repl" type="HaskellStackConfigurationType" factoryName="Haskell Stack REPL" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="create-phone-number" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="stackArgs" value="" />
+      <option name="stackTarget" value="create-phone-number:lib" />
+      <option name="workingDirPath" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="HaskellStackConfigurationType" factoryName="Haskell Stack Tester" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="create-phone-number" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="stackArgs" value="" />
+      <option name="testArguments" value="--color" />
+      <option name="testSuiteTargetName" value="create-phone-number:test:create-phone-number-test" />
+      <option name="workingDirPath" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Haskell Stack.repl" />
+      <item itemvalue="Haskell Stack.test" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df5c74ca-7fef-41d1-867d-1d34d6eee791" name="Changes" comment="" />
+      <created>1679328847800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679328847800</updated>
+      <workItem from="1679328848992" duration="7826000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
