@@ -1,4 +1,4 @@
-module StringTocamelCase where
+module StringToCamelCase where
 
 import Data.Char
 
